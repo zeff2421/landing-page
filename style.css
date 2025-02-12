@@ -118,3 +118,23 @@ button {
 .tile-subtext {
     text-align: center;
 }
+
+/* 3rd section */
+.section-three {
+    background-color: #E5E7EB;
+    padding: 180px 240px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #4f4f4f;
+}
+
+.author {
+    font-weight: bold;
+    text-align: end;
+    font-size: 20px;
+    padding-right: 40px;
+}
