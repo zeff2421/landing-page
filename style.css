@@ -19,11 +19,14 @@ a {
 }
 
 .section-one {
+    background-image: url("./mike-kenneally-tNALoIZhqVM-unsplash.jpg");
+    background-size: cover;
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
     gap: 20px;
     padding: 0 150px;
+    height: 100vh;
 }
 
 .header {
