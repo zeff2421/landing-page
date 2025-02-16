@@ -106,7 +106,7 @@ a,
 
 /* 2nd section */
 .section-two {
-    background-color: #6d3c0781;
+    background-color: #6d3c079c;
     display: flex;
     flex-direction: column;
     padding: 0 460px;
@@ -165,7 +165,7 @@ a,
 
 /* 3rd section */
 .section-three {
-    background-color: #E5E7EB;
+    background-color: #6d3c0775;
     padding: 130px 460px;
 }
 
@@ -173,10 +173,11 @@ a,
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
-    color: #4f4f4f;
+    color: #EADED6;
 }
 
 .author {
+    color: #EADED6;
     font-weight: bold;
     text-align: end;
     font-size: 20px;
@@ -187,7 +188,7 @@ a,
 .section-four {
     display: flex;
     justify-content: space-between;
-    border:5px solid #6D3B07;
+    border:5px solid #6d3c077e;
     padding: 80px 150px;
     margin: 100px 200px;
 }
