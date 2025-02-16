@@ -187,14 +187,14 @@ a,
 .section-four {
     display: flex;
     justify-content: space-between;
-    background-color: #3882F6;
+    border:5px solid #6D3B07;
     padding: 80px 150px;
     margin: 100px 200px;
 }
 
 .main, 
 .subtext {
-    color:#F9FAF8;
+    color: #6D3B07;
 }
 
 .main {
